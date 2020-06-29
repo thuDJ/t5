@@ -1,0 +1,3 @@
+[submodule "dependences/Eigen"]
+	path = dependences/Eigen
+	url = https://github.com/thuDJ/MyEigen.git
